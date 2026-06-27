@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>MZC</title>
+    <!-- ITEMS -->
+    <item>
+      <title>0.1.1</title>
+      <pubDate>Sat, 27 Jun 2026 19:25:01 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Strix-T/MZC-releases/releases/download/v0.1.1/MZC.dmg" sparkle:edSignature="heedoUmgRM/tVcnTBWNBesJghsZNpvMwAxfh7CsawbioeXsIkKCYcO+LNflQoVULTUth7bzl4DyASx6cS6fJAw==" length="7366300" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
