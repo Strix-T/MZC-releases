@@ -4,6 +4,14 @@
     <title>MZC</title>
     <!-- ITEMS -->
     <item>
+      <title>0.1.3</title>
+      <pubDate>Sat, 27 Jun 2026 20:41:01 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Strix-T/MZC-releases/releases/download/v0.1.3/MZC.dmg" sparkle:edSignature="kSlrZ+e2HXUAb4nfb6AkMnDDMe15CgFetuKTkc9NkTWBAGEK4z43sMx/GOghOV7B3XibEn9jKTK4qnrqaem+DQ==" length="7399637" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.2</title>
       <pubDate>Sat, 27 Jun 2026 19:40:17 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
